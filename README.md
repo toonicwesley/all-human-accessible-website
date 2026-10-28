@@ -1,6 +1,7 @@
 # Accessible Website
 
-Ontwerp en maak voor een opdrachtgever een website toegankelijk volgens WCAG richtlijnen.
+## Inleiding
+Pediaconnect is een website waar artsen elkaar kunnen leren kennen. Je kan het ook een social media voor artsen noemen we hebben daarvoor een figma gekregen met de huisstyle en pagina's van hoe het eruit zou moeten zien die wij dan in html ,css en javascript moeten na bouwen.
 
 ## Inhoudsopgave
 
@@ -23,6 +24,40 @@ Daarnaast maakte ik ook gebruik van de [checklist](https://www.a11yproject.com/)
 ## Bronnen
 De instructie van deze leertaak staat in [WIKI](https://github.com/fdnd-task/all-human-accessible-website/wiki)
 https://www.a11yproject.com/
+
+## Figma
+https://www.figma.com/design/EJEXRWKJcgaRjUzIWEhgq9/OVERDRACHT-Pediaconnect--FINAL-version-NVK-kleuren-?node-id=3407-48541&t=ESQgIHB93kK5txmo-0
+
+## Responsive focused
+
+https://github.com/XinJuliette/the-client-website
+https://github.com/toonicwesley/the-client-website
+https://github.com/Davidoo379/the-client-website
+https://github.com/savannahvdheld/the-client-website
+https://github.com/SambalSamss/the-client-website
+https://github.com/Rickd377/the-client-website
+https://github.com/Chahedddd/the-client-website
+
+## Accesibility focused
+
+https://github.com/XinJuliette/all-human-accessible-website
+https://github.com/toonicwesley/all-human-accessible-website
+https://github.com/Davidoo379/all-human-accessible-website
+https://github.com/savannahvdheld/all-human-accessible-website
+https://github.com/SambalSamss/all-human-accessible-website
+https://github.com/Rickd377/all-human-accessible-website
+https://github.com/Chahedddd/all-human-accessible-website
+
+
+## Contributors
+
+@XinJuliette
+@ToonicWesley
+@Davidoo379
+@savannahvdheld
+@SambalSamss
+@Rickd377
+@Chahedddd
 
 ## Licentie
 This project is licensed under the terms of the [MIT license](./LICENSE).
