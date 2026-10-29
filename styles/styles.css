@@ -170,6 +170,9 @@ header:hover{
 align-self: center;
 cursor: pointer;
 }
+.topnav li{
+    align-self: center;
+}
 
 main{
     grid-column: 2/-1;
@@ -207,7 +210,7 @@ h1 {
     border: 0;
     border-bottom: 3px solid #BABABA;
     color: #645A61;
-    font-weight: bold;
+    font-weight: normal;
     font-size: 1.2rem;
     @media(min-width: 900px){
         font-size: 1rem;
